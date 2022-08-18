@@ -1,7 +1,7 @@
 export default function Loader() {
     return (
-        <div className="progress">
-            <div className="indeterminate"></div>
+        <div className="progress grey lighten-5">
+            <div className="indeterminate light-blue darken-1"></div>
         </div>
     );
 }
