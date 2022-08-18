@@ -80,3 +80,7 @@ nav ul a:hover {
     box-shadow: 0 2px 20px 0px rgb(0 174 255 / 14%);
     cursor: pointer;
 }
+
+.block {
+    display: block;
+}

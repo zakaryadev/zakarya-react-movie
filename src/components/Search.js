@@ -26,7 +26,7 @@ export default class Search extends React.Component {
 
   render() {
     return (
-      <div className="row" style={{ marginTop: "40px" }}>
+      <div className="row searcBar" style={{ marginTop: "40px" }}>
         <div className="input-group">
           <input
             placeholder="Search"
